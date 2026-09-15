@@ -24,10 +24,10 @@ Most of this work is employer-owned and not public. Happy to walk through the ar
 
 ## Tech
 
-**Languages** Python, R, Java, SQL, JavaScript, C
-**ML & data** PyTorch, pandas, scikit-learn, NLP, data visualization, NLTK
-**Web & infra** React, AWS, Azure, DynamoDB, Git
-**Tools** PyInstaller, Microsoft Graph API, Figma
+- **Languages** Python, R, Java, SQL, JavaScript, C
+- **ML & data** PyTorch, pandas, scikit-learn, NLP, data visualization, NLTK
+- **Web & infra** React, AWS, Azure, DynamoDB, Git
+- **Tools** PyInstaller, Microsoft Graph API, Figma
 
 ## Elsewhere
 
