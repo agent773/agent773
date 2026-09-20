@@ -32,4 +32,3 @@ Most of this work is employer-owned and not public. Happy to walk through the ar
 ## Elsewhere
 
 - LinkedIn — https://www.linkedin.com/in/parth-patel-berkeley/
-- Email — parpatel773@gmail.com
