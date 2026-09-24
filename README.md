@@ -30,5 +30,5 @@ Most of this work is employer-owned and not public. Happy to walk through the ar
 - **Tools** PyInstaller, Microsoft Graph API, Figma
 
 ## Elsewhere
-
-- LinkedIn — https://www.linkedin.com/in/parth-patel-berkeley/
+- Website - https://parthrpatel.xyz
+- LinkedIn - https://www.linkedin.com/in/parth-patel-berkeley/
