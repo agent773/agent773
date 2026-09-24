@@ -20,7 +20,7 @@ Most of this work is employer-owned and not public. Happy to walk through the ar
 | --- | --- |
 | [Speed Dating Match Predictions](https://github.com/agent773/Speed-Dating-Matches) | The data is from a speed dating data set. Obj: predict whether two people will match after a four-minute speed date |
 | [Home Anthem](https://github.com/agent773/HomeAnthem) | Spotify-powered album poster generator. Team project — I wrote the Canvas rendering. |
-| [RestroomReview](https://github.com/agent773/RestroomReview) | A review blog for Berkeley campus restrooms. React + Vite. |
+| [Ongawa Website](https://ongawa.io/)) | A Website for the rhythm game Ongawa. Based on React with a Amplify Backend |
 
 ## Tech
 
